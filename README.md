@@ -27,8 +27,8 @@ Before you can run LLAMA-LEX, ensure you have the following installed on your sy
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/nikhil80520/LLAMA-LEX.git
-cd LLAMA-LEX
+git clone https://github.com/pradeepdubey9322/RAG_PROJECT
+cd RAG_PROJECT
 ```
 
 ### 2. Set up the Docker Environment:
@@ -36,10 +36,10 @@ You can build and run the project using Docker. The container will include the n
 
 ```bash
 # Build the Docker container
-docker build -t llama-lex-app .
+docker build -t lRAG_PROJECT .
 
 # Run the Docker container
-docker run -p 8000:8000 llama-lex-app
+docker run -p 8000:8000 RAG_PROJECT
 ```
 
 ### 3. Access the Application:
