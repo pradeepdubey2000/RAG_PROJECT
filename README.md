@@ -1,5 +1,6 @@
 ---
-# 🌟 LLAMA-LEX APP 🌟  
+# 🌟 RAG_PROJECT
+🌟  
 🚀 **Real-Time Document Interaction System Using RAG and LLAMA 3.2**
 
 ## Overview
